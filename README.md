@@ -22,7 +22,7 @@ Au-delà de l'interaction sur les repos directement, le groupe de travail se ré
 
 Réunions passées :
 
-- Mardi 8 mars 2022 - [notes](#)
+- Mardi 8 mars 2022 - [notes](./workshop_notes/2022.03.08_workshop_notes.md)
 
 ## Comment participer ?
 
