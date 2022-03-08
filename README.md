@@ -26,6 +26,6 @@ Réunions passées :
 
 ## Comment participer ?
 
-Le groupe de travail est ouvert à tous. Vous pouvez nous contacter à l'adresse **bonjour@labelia.org** pour en savoir plus.
+Le groupe de travail est ouvert à tous. Vous pouvez nous contacter à l'adresse **bonjour@labelia.org** ou sur l'[espace Slack de Labelia Labs](https://join.slack.com/t/labelia/shared_invite/zt-cpyedcab-FHYgpy08efKJ2FCadE2yCA), canal #workgroup-dsrc, pour en savoir plus.
 
 À noter : il est demandé aux nouveaux arrivants d'avoir pris connaissance et pris en main MAPIE et Shapash, via les documentations en ligne proposées sur leurs repos respectifs, avant de participer à leur 1ère réunion du groupe de travail.
