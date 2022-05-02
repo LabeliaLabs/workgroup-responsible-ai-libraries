@@ -10,7 +10,7 @@ Les premières librairies incluses dans le groupe de travail sont :
 
 - MAPIE - lead : Quantmetry - repo : [GitHub - scikit-learn-contrib/MAPIE: A scikit-learn-compatible module for estimating prediction intervals](https://github.com/scikit-learn-contrib/MAPIE)
 - Shapash - lead : MAIF - repo : [GitHub - MAIF/shapash: 🔅 Shapash makes Machine Learning models transparent and understandable by everyone](https://github.com/MAIF/shapash)
-- à venir : Code Carbon
+- Code Carbon : [Github - Code Carbon: Estimate and track carbon emissions from your compute, quantify and analyze their impact.](https://github.com/mlco2/codecarbon)
 
 ## Réunions du groupe de travail
 
@@ -23,6 +23,7 @@ Au-delà de l'interaction sur les repos directement, le groupe de travail se ré
 Réunions passées :
 
 - Mardi 8 mars 2022 - [notes](./workshop_notes/2022.03.08_workshop_notes.md)
+- Jeudi 14 avril 2022 - [notes](./workshop_notes/2022.04.14_workshop_notes.md)
 
 ## Comment participer ?
 
